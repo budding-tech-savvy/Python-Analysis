@@ -1,4 +1,4 @@
-# Python-Analysis
+# Partner Business Modeling
 Partner Business Modeling
 
 **Scenario 1:** It is going to be a huge Saturday and there will need to be many more cars on the road than last week. In order to get drivers to go online, we're assessing the following two bonus options in terms of cost:
